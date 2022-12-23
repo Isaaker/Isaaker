@@ -1,4 +1,6 @@
-Spanish developer 🇪🇸 and owner of piscinadeentropia.es
+Spanish developer 🇪🇸, CLI user and owner of piscinadeentropia.es
+
+> Because the ones who are crazy enough to think that they can change the world, are the ones who do. - Steve Jobs
 
 ## About Me
 
