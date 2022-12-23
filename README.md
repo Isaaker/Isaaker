@@ -3,7 +3,7 @@ Spanish developer 🇪🇸 and owner of piscinadeentropia.es
 ## About Me
 
 - Linux and Apple OS 
-- [Python](https://github.com/topics/python) , [PHP](https://github.com/topics/php) and [Swift](https://github.com/topics/swift)
+- [Python](https://github.com/topics/python), [PHP](https://github.com/topics/php) and [Swift](https://github.com/topics/swift)
 - WordPress and nginx
 - CLI and vim
 - Always with LICENSE
