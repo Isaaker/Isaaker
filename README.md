@@ -2,21 +2,16 @@ Spanish developer 🇪🇸, CLI user and owner of piscinadeentropia.es
 
 > Because the ones who are crazy enough to think that they can change the world, are the ones who do. - Steve Jobs
 
-**You can also see my [GitHub Gist](https://gist.github.com/Isaaker), where I upload some small scripts**
-
-## About Me
-
-- Linux and Apple OS 
-- [Python](https://github.com/topics/python), [PHP](https://github.com/topics/php) and [Swift](https://github.com/topics/swift)
-- WordPress and nginx
-- CLI and vim
-- Always with LICENSE
-
 ## My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaaker&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaaker&theme=2077) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaaker&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=Isaaker&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaaker&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaaker&theme=2077&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaaker&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaaker&theme=2077)
+
+<img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=isaaker&theme=react-dark&hide_border=true" /> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## My tools 🛠️
 <div>
@@ -38,4 +33,9 @@ Spanish developer 🇪🇸, CLI user and owner of piscinadeentropia.es
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" **alt="Firefox" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original.svg" title="Safari" **alt="Safari" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>&nbsp;
+</div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{isaaker}/count.svg" /></p> 
 </div>
