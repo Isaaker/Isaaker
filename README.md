@@ -8,9 +8,11 @@ Spanish developer 🇪🇸, CLI user and owner of piscinadeentropia.es
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaaker&theme=2077&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaaker&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaaker&theme=2077)
 
-<img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=isaaker&theme=react-dark&hide_border=true" /> 
+## My Certifications 📚
 
-## Badges 
+[![LFC108](./images/LFC108.png)](https://www.credly.com/earner/earned/badge/4062bc6f-5e46-431c-b8da-cfc60b53a4f7)
+
+## Badges 🏅
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
