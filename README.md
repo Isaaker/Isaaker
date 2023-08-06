@@ -1,4 +1,4 @@
-Spanish developer 🇪🇸, CLI user, administrator of [Ramshackle Code](https://ramshackle-code.github.io) and owner of piscinadeentropia.es
+Spanish developer 🇪🇸, CLI user, administrator of [Ramshackle Code](https://ramshackle-code.piscinadeentropia.es) and owner of [piscinadeentropia.es](https://piscinadeentropia.es)
 
 > Because the ones who are crazy enough to think that they can change the world, are the ones who do. - Steve Jobs
 
