@@ -4,7 +4,7 @@ Spanish developer 🇪🇸, CLI user, administrator of [Ramshackle Code](https:/
 
 ## My GitHub Stats 📈
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaaker&theme=2077) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaaker&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=Isaaker&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaaker&theme=2077)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaaker&theme=2077&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaaker&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaaker&theme=2077)
 
