@@ -31,8 +31,3 @@ Spanish developer 🇪🇸, CLI user, administrator of [Ramshackle Code](https:/
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" **alt="Firefox" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original.svg" title="Safari" **alt="Safari" width="40" height="40"/>&nbsp;
 </div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/isaaker/count.svg" /></p> 
-</div>
